@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://imgpile.com/i/C909Va);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -61,7 +61,7 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
+  --dplus-font-body: 'Ubuntu';
   --dplus-font-header: 'Righteous';
 
 /* Round corner sizes, measured in pixel radius.
